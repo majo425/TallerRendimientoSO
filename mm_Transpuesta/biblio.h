@@ -1,6 +1,6 @@
 /**************************************************************
 	Pontificia Universidad Javeriana
-	Autores:  
+	Autores:  Juan Diego Palacios Toledo, María José Cárdenas Machaca, Andrés Leonardo Manrique Hernández, Juan Pablo Hernández Ceballos
 	Fecha: 09 mayo 2024
 	Materia: Sistemas Operativos
 	Tema: Taller de Evaluación de Rendimiento
