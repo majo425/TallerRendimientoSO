@@ -1,7 +1,7 @@
 #!/usr/bin/perl
 #**************************************************************
 #     Pontificia Universidad Javeriana
-#     Autores: 
+#     Autores:   María José Cárdenas Machaca, Juan Diego Palacios Toledo, Andrés Leonardo Manrique Hernández, Juan Pablo Hernández Ceballos
 #     Fecha: 9 mayo 2024
 #     Materia: Sistemas Operativos
 #     Tema: Taller de Evaluación de Rendimiento
